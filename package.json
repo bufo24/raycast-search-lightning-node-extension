@@ -1,16 +1,16 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "raycast-lighting-node-lookup",
-  "title": "raycast-lighting-node-lookup",
-  "description": "",
+  "name": "raycast-lighting-node-search",
+  "title": "Search Lightning Nodes",
+  "description": "A Raycast extension for searching Lightning Nodes",
   "icon": "command-icon.png",
   "author": "bufo24",
   "license": "MIT",
   "commands": [
     {
-      "name": "lookup-node",
-      "title": "Lookup node",
-      "description": "",
+      "name": "search-node",
+      "title": "Search node",
+      "description": "Search for a Lightning Node",
       "mode": "view"
     }
   ],
